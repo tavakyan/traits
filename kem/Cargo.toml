@@ -15,7 +15,7 @@ rust-version = "1.66"
 
 [dependencies]
 rand_core = "0.6"
-zeroize = { version = "1.7", default-features = false }
+zeroize = { version = "1.3", default-features = false }
 
 [dev-dependencies]
 hpke = "0.12"
